@@ -1,0 +1,11 @@
+# Runtime outputs are written to ~/.claude/skill-usage/, not into the repo.
+# These entries only matter if a user points SKILL_USAGE_OUT back at the repo.
+data/
+dashboard.html
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

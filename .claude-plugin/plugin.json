@@ -1,0 +1,13 @@
+{
+  "name": "skill-usage",
+  "version": "0.1.0",
+  "description": "See which Claude skills you actually use — and what to keep, modernize, turn off, or prune. Parses your local Claude transcripts for real usage + token cost and builds a decision dashboard.",
+  "author": {
+    "name": "Paul Takisaki",
+    "email": "paultaki@gmail.com"
+  },
+  "homepage": "https://github.com/paultaki/claude-skill-usage",
+  "repository": "https://github.com/paultaki/claude-skill-usage",
+  "license": "MIT",
+  "keywords": ["skills", "usage", "tokens", "cost", "dashboard", "audit", "claude-code"]
+}

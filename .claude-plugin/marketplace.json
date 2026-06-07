@@ -1,0 +1,20 @@
+{
+  "name": "skill-usage",
+  "description": "skill-usage — usage, token-cost, and recommendation dashboard for your Claude skills",
+  "owner": {
+    "name": "Paul Takisaki",
+    "email": "paultaki@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "skill-usage",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "See which Claude skills you actually use — and what to keep, modernize, turn off, or prune.",
+      "author": {
+        "name": "Paul Takisaki",
+        "email": "paultaki@gmail.com"
+      }
+    }
+  ]
+}
